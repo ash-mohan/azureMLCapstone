@@ -1,0 +1,15 @@
+2022-11-06 02:32:42.310 - INFO - 5094 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 20.10.17+azure-1, build 100c70180fde3601def79a59cc3e996aa553c9b9
+.
+2022-11-06 02:32:42.318 - INFO - 5094 - azureml.train.automl.automlconfig._start_execution:226 - Submitting remote.
+2022-11-06 03:41:36.405 - INFO - 5094 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 20.10.17+azure-1, build 100c70180fde3601def79a59cc3e996aa553c9b9
+.
+2022-11-06 03:41:36.422 - INFO - 5094 - azureml.train.automl.automlconfig._start_execution:226 - Submitting remote.
+2022-11-06 03:53:06.321 - INFO - 5094 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 20.10.17+azure-1, build 100c70180fde3601def79a59cc3e996aa553c9b9
+.
+2022-11-06 03:54:18.522 - INFO - 5094 - azureml.train.automl._local_managed_utils.is_docker_installed:354 - Docker is installed with Docker version 20.10.17+azure-1, build 100c70180fde3601def79a59cc3e996aa553c9b9
+.
+2022-11-06 03:54:18.634 - INFO - 5094 - azureml.train.automl.automlconfig._start_execution:226 - Submitting remote.
+2022-11-06 06:08:39.279 - INFO - 21036 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2022-11-06 06:08:39.300 - INFO - 21036 - azureml.automl.core.dataset_utilities._save_datasets_to_json:255 - JSON serialization of input of type <class 'NoneType'> is un-supported.
+2022-11-06 06:08:39.334 - INFO - 21036 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:124 - Start data validation.
+2022-11-06 06:08:39.404 - INFO - 21036 - azureml.train.automl._experiment_drivers.driver_utilities.validate_input:137 - Validation service found the data has no errors.
