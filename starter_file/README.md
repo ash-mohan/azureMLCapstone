@@ -171,7 +171,8 @@ compute_target.delete()
 All of these steps are outlined in the attached notebooks. 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+The following [link](https://youtu.be/mUCsfoRIG_Q) will demonstrate:
 - A working model
 - Demo of the deployed  model
 - Demo of a sample request sent to the endpoint and its response
