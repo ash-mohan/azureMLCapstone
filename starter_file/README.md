@@ -8,7 +8,7 @@ This project is intended to test our knowledge on the content learned in the azu
 ## Dataset
 
 ### Overview
-The dataset I will be using in this project is the Top Hits Spotify from 2000-2019 dataset retrieved from kaggle
+The dataset I will be using in this project is the Top Hits Spotify from 2000-2019 dataset retrieved from [kaggle](https://www.kaggle.com/datasets/paradisejoy/top-hits-spotify-from-20002019)
 It contains audio statistics of the top 2000 tracks on Spotify from 2000-2019, measured by 18 columns each describing the track and it's qualities.
 I chose this dataset because I am a big fan of the spotify platform and music in general. Predicting song popularity seems like
 a difficult task, if it were easy then everyone could make one hit wonders!
